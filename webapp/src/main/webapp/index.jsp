@@ -1,2 +1,3 @@
 Hello, World!
-lkjhgf,mnbvcd
+
+This is a maven project
