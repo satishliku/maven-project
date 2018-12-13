@@ -49,8 +49,8 @@
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
         <configuration>
+               <reportPlugins>
            <plugin>
-           <reportPlugins>
               <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
 
